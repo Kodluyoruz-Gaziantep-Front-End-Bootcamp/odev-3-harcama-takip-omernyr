@@ -1,15 +1,17 @@
 # Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+```Hafta 3```
 
 # Homework 
-```Ödev```
+```Harcama takip uygulaması```
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+```Usestate ve Useeffect kullanarak harcamaları takip eden bir uygulama yazdım. ```
 
 
 ## Author
 
-```Ödevi yapan```
+```Ömer Nayır```
+
+<img width="947" alt="Ekran Resmi 2022-08-28 22 50 17" src="https://user-images.githubusercontent.com/89137487/187091988-5c91b1ba-fa65-42f3-b768-31ce93625924.png">
