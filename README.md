@@ -1,14 +1,14 @@
 
 
-```Week```
-Week 3 - HW 3
+### Week
+#### Week 3 - HW 3
 
-Homework
+### Homework
 HW 3
 
-Homework Description
+### Homework Description
 
-I made expending app with usestate and useeffect
+`I made expending app with usestate and useeffect`
 
 Author
 `Ömer Nayır`
